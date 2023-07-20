@@ -1,0 +1,18 @@
+.section_2{
+    height: 200px;
+}
+.with_over{
+    font-size: 65px;
+    height: 200px;
+    margin-left: 185px;
+    float: left;
+    margin-top: 50px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.with_trainingr{
+    font-size: 65px;
+    margin-right: 185px;
+    float: right;
+    margin-top: 120px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}

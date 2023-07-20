@@ -1,0 +1,71 @@
+.items{
+    width: 100%;
+    height: 450px;
+    /* background-color: rgba(0, 0, 0, 0.096); */
+    position: relative;
+}
+.items_1{
+    width: 20%;
+    z-index: -1;
+    height: 280px;
+    position: absolute;
+    left: 13%;
+    top: 20%;
+    display: inline-block;
+    border-radius: 100%;
+    background-image: url(https://media.istockphoto.com/id/1076946974/photo/group-of-women-practicing-yoga-ardha-matsyendrasana-pose.jpg?s=612x612&w=0&k=20&c=TCG_RaqzWN1mIDopfHIx7fmdzNaKZbqFwgPJh1V7fYk=);
+    background-color: transparent;
+    border: 8px solid #C0F22C;
+    background-size: cover;
+    transition: 1s;
+}
+.items_2{
+    width: 20%;
+    z-index: -1;
+    height: 280px;
+    top: 20%;
+    left: 30%;
+    position: absolute;
+    display: inline-block;
+    border-radius: 100%;
+    background-image: url(https://images.pexels.com/photos/3822906/pexels-photo-3822906.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500);
+    background-color:  #C0F22C;
+    border: 8px solid #C0F22C;
+    background-size: cover;
+    transition: 1s;
+
+}
+
+.items_3{
+    width: 20%;
+    z-index: -1;
+    height: 280px;
+    top: 20%;
+    left: 47.5%;
+    position: absolute;
+    display: inline-block;
+    border-radius: 100%;
+    background-image: url(https://img.freepik.com/premium-photo/young-asian-beautiful-woman-practicing-yoga-meditate-lotus-pose-outdoor-beside-lake-morning-relaxation-peace-mind-harmony-meditation-concept-healthy-lifestyle_201468-935.jpg?w=2000);
+    background-color:  #C0F22C;
+    border: 8px solid #C0F22C;
+    background-size: cover;
+    transition: 1s;
+
+}
+
+.items_4{
+    z-index: -1;
+    width: 20%;
+    height: 280px;
+    left: 65%;
+    top: 20%;
+    position: absolute;
+    display: inline-block;
+    border-radius: 100%;
+    background-image: url(https://images.tv9hindi.com/wp-content/uploads/2022/06/Difference-between-Yoga-and-Meditation-4.jpg);
+    background-color:  #C0F22C;
+    border: 8px solid #C0F22C;
+    background-size: cover;
+    transition: 1s;
+
+}

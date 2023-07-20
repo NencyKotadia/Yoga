@@ -1,0 +1,50 @@
+.home-main{
+    width: 100%;
+    height: 760px;
+    background-image: url(https://mobirise.com/extensions/yogam5/yoga-studio/assets/images/1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.sab-home{
+    width: 100%;
+    height: 760px;
+    display: flex;
+    background-color: rgba(0, 0, 0, 0.669);
+    justify-content: space-between;
+}
+.text{
+    width: 65%;
+    /* border: 5px solid white ; */
+    color: white;
+    font-weight: 500;
+    font-size: 65px;
+    padding-top: 250px;
+    /* padding-left: 50px; */
+}
+.book{
+    width: 22%;
+    margin-right: 50px;
+    margin-top: 180px;
+    border: 2px solid white;
+    border-radius:100% ;
+    height: 310px;
+    background-color: transparent;
+    color: white;
+}
+.book1{
+    width: 100%;
+    border-radius:100% ;
+    text-align: center;
+    margin-left: 15px;
+    margin-top: 140px;
+    color: white;
+    /* padding-top: 50px; */
+}
+.book:hover{
+    transition: 1s;
+    border: 5px solid white;
+    background-color: #C0F22C;
+}
+.book:hover .book1{
+    color: black;
+}

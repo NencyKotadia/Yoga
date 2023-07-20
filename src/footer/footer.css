@@ -1,0 +1,66 @@
+.footer{
+    background-color: #191919;
+    width: 100%;
+    padding-top: 68px;
+    padding-bottom: 68px;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: space-around;
+}
+.footer1{
+    width: 45%;
+    background-color: transparent;
+    border-top: 3px solid #C0F22C;
+    border-bottom:  3px solid #C0F22C;
+    border-radius: 15px;
+    padding-top: 80px;
+    box-sizing: border-box;
+    text-align: center;
+    color: white;
+    height: 350px;
+}
+.footer2{
+    width: 45%;
+    margin-left: 10px;
+    color: white;
+    padding-top: 80px;
+    text-align: center;
+    box-sizing: border-box;
+    background-color: transparent;
+    border-top: 3px solid #C0F22C;
+    border-radius: 15px;
+    border-bottom:  3px solid #C0F22C;
+    height: 350px; 
+}
+.footer1:hover{
+    background-color: #c1f22c20;
+    border-bottom:  3px solid white;
+    border-top:  3px solid white;
+}
+.footer2:hover{
+    background-color: #c1f22c20;
+    border-bottom:  3px solid white;
+    border-top:  3px solid white;
+}
+.num{
+    color: white;
+    margin-top: 22px;
+}
+.add1{
+    margin-top: 36px;
+}
+.add2{
+    margin-top: 6px;
+}
+.add3{
+    margin-top: 6px;
+}
+.insta{
+    margin-top: 25px;
+}
+.face{
+    margin-top: 10px;
+}
+.goodness{
+    margin-top: 30px;
+}

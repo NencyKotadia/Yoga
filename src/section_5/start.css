@@ -1,0 +1,47 @@
+.start{
+    background-color: #191919;
+    width: 100%;
+    display: flex;
+    height: 380px;
+}
+.trainings_1{
+    width: 50%;
+    padding-top: 80px;
+    box-sizing: border-box;
+}
+.trainings_2{
+    padding-top: 80px;
+    padding-left: 50px;
+}
+.trainings_2 form .input1{
+    background: transparent;
+    border: none;
+    border-bottom: 2px solid #C0F22C;
+    outline: none;
+    font-size: 20px;
+    margin-bottom: 25px;
+    color: white;
+    width: 600px;
+}
+.p1{
+    color: white;
+    font-size: 60px;
+    width: 100%;
+    text-align: left;
+    margin-left: 80px;
+}
+.p2{
+    color: #C0F22C;
+    font-size: 60px;
+    width: 100%;
+    text-align: right;
+}
+.btn{
+    width: 150px;
+    display: block;
+    padding: 12px;
+    font-size: 18px;
+    background-color: #C0F22C;
+    border-radius: 22px;
+    border: none;
+}

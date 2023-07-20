@@ -1,0 +1,80 @@
+.section_5_1{
+    width: 100%;
+    height:600px;
+    position: relative;
+    /* background-color: aqua; */
+}
+.img{
+    width: 30%;
+    height: 500px;
+    margin-left: 500px;
+    margin-right: auto;
+    opacity: 0.4;
+    position: absolute;
+    background-image: url(https://img.freepik.com/free-vector/silhouette-female-yoga-pose-against-mandala-design_1048-13082.jpg?w=2000);
+    background-size: cover;
+}
+.sec_5_1_1{
+    position: absolute ;
+    top: 5%;
+    left: 25%;
+    font-weight: 600;
+    text-align: center;
+    font-size: 50px;
+}
+.sec_5_1_2{
+    position: absolute ;
+    top: 15%;
+    left: 44%;
+    color: #b5f103;
+    font-weight: 600;
+    font-size: 30px;
+
+}
+.sec_5_1_3{
+    color:#7f7f7f;
+    position: absolute ;
+    top: 22%;
+    left: 34%;
+    font-size: 20px;
+}
+.sec_5_1_4{
+    width: 70%;
+    height: 350px;
+    position: absolute ;
+    top: 30%;
+    left: 15%;
+    display: flex;
+    justify-content: space-around; 
+}
+.sec_5_1_4_1{
+    width: 35%;
+    height: 350px;
+    /* background-image: url(https://images.healthshots.com/healthshots/en/uploads/2022/05/11184715/Yoga-for-weight-loss.jpg); */
+    background-size: cover;
+    background-color: cadetblue;
+    border-radius: 20px;
+}
+.img1{
+    width: 100%;
+    height: 350px;
+    border-radius: 20px;
+
+}
+.sec_5_1_4_2{
+    width: 35%;
+    height: 350px;
+    background-color:  #b5f10365;
+    border-radius: 20px;
+    padding: 10px;
+    box-sizing: border-box;
+}
+.sec_5_1_4_2_1{
+    font-size: 20px;
+    margin-top: 50px;
+}
+.sec_5_1_4_2_2{
+    font-size: 20px;
+    margin-top: 20px;
+    color: #797676;
+}   
